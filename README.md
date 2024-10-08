@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Chi, a software engineer with stong interests in AI and data analytics!
+I love helping people solve problems. 
+
+I have a Master's degree or Artificial Intelligence in Data Engineering, and a Bachelor's in Chemical Engineering.
+After working as a bio-pharmarceutical technical serivices engineer for 2 years, I stumbled upon coding through Data Science and Engineering, and haven't looked back since!
+
