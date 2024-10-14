@@ -18,6 +18,6 @@ My name is Chi, a software engineer with stong interests in AI and data analytic
 I love helping people solve problems. 
 
 I have a Master's of Artificial Intelligence degree in Data Engineering, and a Bachelor's in Chemical Engineering.
-After working as a bio-pharmarceutical technical serivices engineer for 2 years, I stumbled upon coding through Data Science and Engineering, and haven't looked back since!
+After working as a bio-pharmarceutical technical serivices engineer for 3 years, I stumbled upon coding through Data Science and Engineering, and haven't looked back since!
 
 I enjoy solving riddles and playing number games in my free time.
