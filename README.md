@@ -26,7 +26,7 @@ I enjoy solving riddles and playing number games in my free time. in BC Canada</
 
 - 💬 Ask me about **LLMs and Agents**
 
-- 📫 How to reach me **chiaghaizu@gmail.com**
+- 📫 How to reach me **<chimaghaizu@gmail.com>**
 
 - ⚡  Fun fact **I can't help it - I see number patterns everywhere** 👻 
 
