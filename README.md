@@ -20,11 +20,11 @@ I enjoy solving riddles and playing number games in my free time. in BC Canada</
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=optimak&label=Profile%20views&color=0e75b6&style=flat" alt="optimak" /> </p> -->
 
-- 🔭 I’m currently working on [MaplePathfinder](https://github.com/optimak/MaplePathFinder)
+- 🔭 I’m currently adding AI features to The Space App. Ask me about this!
 
-- 🌱 I’m currently learning **LangChain, FastApi and Typescript**
+- 🌱 I’m currently learning ** ML deployment**
 
-- 💬 Ask me about **LLMs and Agents**
+- 💬 Ask me about **LLMs**
 
 - 📫 How to reach me **<chimaghaizu@gmail.com>**
 
