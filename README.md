@@ -22,7 +22,7 @@ I enjoy solving riddles and playing number games in my free time. in BC Canada</
 
 - 🔭 I’m currently adding AI features to The Space App. Ask me about this!
 
-- 🌱 I’m currently learning ** ML deployment**
+- 🌱 I’m currently learning **ML deployment**
 
 - 💬 Ask me about **LLMs**
 
