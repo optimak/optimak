@@ -9,7 +9,7 @@
   A bio-pharmarceutical technical serivices engineer for 3 years, who stumbled upon coding through Data Science and Engineering, and haven't looked back since!
 I enjoy solving riddles and playing number games in my free time. in BC Canada</h3> 
 -->
-<h3 align="center">A Passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="33"> </h3>
+<h3 align="center">A Passionate AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="33"> </h3>
 
 - **Interests:** Strong focus on AI and Data Analytics
 - **Education:** Master's in Artificial Intelligence (Data Engineering) & Software Engineering Diploma
